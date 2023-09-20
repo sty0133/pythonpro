@@ -8,4 +8,5 @@ s = int(input("Staff <butlers, chef, driver, assistant>: "))
 pgc = int(input("Personal Guru and Coach: "))
 cg = int(input("Computer Games: "))
 
-print("Grand Total:  ",ltu+pjr+g+d+s+pgc+cg)
+print("\nGrand Total:  "+str(ltu+pjr+g+d+s+pgc+cg)+"\n")
+input("\nPress the enter key to exit.")
