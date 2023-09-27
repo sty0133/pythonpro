@@ -1,1 +1,1 @@
-This is Test
+This repo is for PythonProgramming class week projects.
