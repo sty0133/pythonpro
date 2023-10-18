@@ -45,7 +45,7 @@ for h in chest:
     if cnt_0 < len(chest):
         print(",",end="") 
 
-print(">\nYou add the contents of the chest to your inventory.\nYour inventory is now:\n<".format(chest),end="")
+print(">\nYou add the contents of the chest to your inventory.\nYour inventory is now:\n<",end="")
 cnt_1 = 0
 chestinv = inven + chest
 for j in chestinv:
