@@ -1,5 +1,5 @@
 import random as rm
-#Homework 2
+#Homework 1
 class Critter:
     def Name():
         global name
